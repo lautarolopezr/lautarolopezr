@@ -5,11 +5,11 @@ My name is Lautaro López Rodríguez </br>
 Front-End Developer / Web Developer
 -----------------------------------
 
-I 've been learning to code 2 years ago. I'm creating personal projects and team projects with classmates. I love the new challenges and teach that I know with anyone because the best way to learn something is teaching at someone.
+I've been learning programming for 3 years. I'm creating personal projects and team projects with classmates too. I love new challenges and teaching what I know with anyone because the best way to learn something is by teaching it to someone else.
 
 *   🌍  I'm from Argentina
 *   ✉️  You can contact me at [lautarolopezr@gmail.com](mailto:lautarolopezr@gmail.com )
-*   🧠  I'm learning JavaScript
+*   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Project with greatest people 🧡
 ### Skills
 <p align="left">
